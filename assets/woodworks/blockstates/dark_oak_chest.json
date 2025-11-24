@@ -1,9 +1,9 @@
 {
   "variants": {
-    "type=single,facing=north": { "model": "woodworks:block/chest/dark_oak", "y": 90 },
-    "type=single,facing=east": { "model": "woodworks:block/chest/dark_oak", "y": 180 },
-    "type=single,facing=south": { "model": "woodworks:block/chest/dark_oak", "y": 270 },
-    "type=single,facing=west": { "model": "woodworks:block/chest/dark_oak" },
+    "type=single,facing=north": { "model": "woodworks:block/chest/dark_oak_chest", "y": 90 },
+    "type=single,facing=east": { "model": "woodworks:block/chest/dark_oak_chest", "y": 180 },
+    "type=single,facing=south": { "model": "woodworks:block/chest/dark_oak_chest", "y": 270 },
+    "type=single,facing=west": { "model": "woodworks:block/chest/dark_oak_chest" },
     "type=right,facing=north": {
       "model": "woodworks:block/chest/dark_oak_chest_right",
       "y": 90
