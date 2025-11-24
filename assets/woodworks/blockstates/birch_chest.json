@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "type=single,facing=north": { "model": "woodworks:block/chest/birch", "y": 90 },
+    "type=single,facing=east": { "model": "woodworks:block/chest/birch", "y": 180 },
+    "type=single,facing=south": { "model": "woodworks:block/chest/birch", "y": 270 },
+    "type=single,facing=west": { "model": "woodworks:block/chest/birch" },
+    "type=right,facing=north": {
+      "model": "woodworks:block/chest/birch_double_right",
+      "y": 90
+    },
+    "type=right,facing=east": {
+      "model": "woodworks:block/chest/birch_double_right",
+      "y": 180
+    },
+    "type=right,facing=south": {
+      "model": "woodworks:block/chest/birch_double_right",
+      "y": 270
+    },
+    "type=right,facing=west": { "model": "woodworks:block/chest/birch_double_right" },
+    "type=left,facing=north": {
+      "model": "woodworks:block/chest/birch_double_left",
+      "y": 90
+    },
+    "type=left,facing=east": {
+      "model": "woodworks:block/chest/birch_double_left",
+      "y": 180
+    },
+    "type=left,facing=south": {
+      "model": "woodworks:block/chest/birch_double_left",
+      "y": 270
+    },
+    "type=left,facing=west": { "model": "woodworks:block/chest/birch_double_left" }
+  }
+}
